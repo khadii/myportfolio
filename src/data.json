@@ -40,6 +40,10 @@
     {
       "skill": "MongoDB",
       "percentage": 65
+    },
+    {
+      "skill": "React Native",
+      "percentage": 65
     }
   ],
   "experiences": [
